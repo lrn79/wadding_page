@@ -1,4 +1,15 @@
-.header_banner{
-    width: 1440px;
-    height: 584px;
+
+
+.card_color{
+    background-color: #3F87F5;
 }
+.card_button{
+    color:#3F87F5 ;
+}
+.banner img{
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+
+}
+
